@@ -82,7 +82,7 @@ ofpro_pretty() {
 }
 ```
 
-# TODO
+## TODO
 
 * Decide on a better default home for `omnifocusprojects.txt`, better than `~/Desktop` (generation of the file is too slow for it to be done on the fly.
 * save `ofpro` and `ofpro_pretty` (whose name should be `ofpro_extract_project` to become separate functions that don't need to be copied into `.zshrc`
